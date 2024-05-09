@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [
     vue({
       script: {
-        propsDestructure:true,
+        propsDestructure: true,
       },
     }),
     Components({
